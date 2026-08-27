@@ -10,10 +10,10 @@ const int potPin2 = A1;
 const int potPin3 = A2;
 const int potPin4 = A3;
 
-const int servoPin1 = 6;
-const int servoPin2 = 9;
-const int servoPin3 = 10;
-const int servoPin4 = 11;
+const int servoPin1 = 11;
+const int servoPin2 = 10;
+const int servoPin3 = 9;
+const int servoPin4 = 6;
 
 void setup() {
   servo1.attach(servoPin1);
